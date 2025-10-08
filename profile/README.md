@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 
 O **D.E.E.P.** é uma solução de software projetada para extrair e analisar emoções humanas a partir de conteúdo em vídeo. Utilizando visão computacional e modelos de deep learning, a ferramenta processa expressões faciais para gerar insights valiosos sobre a resposta emocional de indivíduos.
 
@@ -12,7 +12,7 @@ Nosso objetivo é fornecer uma análise detalhada e dinâmica, permitindo que cr
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 A arquitetura do D.E.E.P. é construída sobre um ecossistema de tecnologias modernas, organizadas para entregar performance, inteligência e escalabilidade.
 
@@ -29,7 +29,7 @@ A arquitetura do D.E.E.P. é construída sobre um ecossistema de tecnologias mod
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
 </p>
 
-### Inteligência Artificial & Dados (Sugestão)
+### Inteligência Artificial & Dados
 <p align="left">
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
@@ -46,7 +46,7 @@ A arquitetura do D.E.E.P. é construída sobre um ecossistema de tecnologias mod
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 Este projeto foi desenvolvido por uma equipe dedicada e multidisciplinar.
 
